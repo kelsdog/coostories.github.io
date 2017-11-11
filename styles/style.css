@@ -181,7 +181,6 @@ body {
 }
 
 #contactform {
-  color: white;
   font-size: 18px;
 }
 
@@ -498,5 +497,9 @@ body {
 }
 
 .bg-primary {
-  background-color: #263b52;
+  background-color: #47515c;
+}
+
+#contact .container a {
+  color: #f0f0f0;
 }
